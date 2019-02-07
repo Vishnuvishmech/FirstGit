@@ -34,7 +34,7 @@ public class Craftsvilla {
 				List<WebElement> main3 = driver.findElements(By.xpath("//li[a[@href='#']]/ul/li/a"));
 				for(int k=0;k<15;k++)
 				{
-					String v1 = main2.get(k).getText();
+					String v1 = main3.get(k).getText();
 					if(v1.length()>0)
 					System.out.println(v1);
 				}
