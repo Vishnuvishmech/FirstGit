@@ -24,8 +24,21 @@
 	<classpathentry kind="lib" path="jars/poi-ooxml-3.17.jar"/>
 	<classpathentry kind="lib" path="jars/poi-ooxml-schemas-3.17.jar"/>
 	<classpathentry kind="lib" path="jars/poi-scratchpad-3.17.jar"/>
-	<classpathentry kind="lib" path="jars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/selenium-server-standalone-3.141.59.jar" sourcepath="F:/softwares/selenium-master.zip"/>
 	<classpathentry kind="lib" path="jars/selenium-shutterbug-0.9.jar"/>
 	<classpathentry kind="lib" path="jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="jars/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="jars/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="jars/extentreports-4.0.9.jar"/>
+	<classpathentry kind="lib" path="jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="jars/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="jars/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="jars/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="jars/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="jars/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="jars/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="jars/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="jars/testng-6.9.10.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

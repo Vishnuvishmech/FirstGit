@@ -12,7 +12,7 @@ import org.testng.Assert;
 
 public class BlueStone2 {
     /*  @Test
-	  public void test() {*/
+	  public void test() {*/ 
 	public static void main(String[] args) throws InterruptedException {
 		WebDriver driver = new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
