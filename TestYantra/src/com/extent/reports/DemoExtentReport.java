@@ -23,7 +23,7 @@ public class DemoExtentReport
 
 		report.attachReporter(rep);
 		report.setSystemInfo("Tester Name", "VISHNU");
-		
+		System.out.println("Hello");
 		
 		test.log(Status.INFO, "Running Extent report");
 

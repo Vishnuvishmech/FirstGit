@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-02-11T07:57:42Z" name="Default suite" finished-at="2019-02-11T07:57:43Z" duration-ms="580">
+  <suite started-at="2019-02-11T08:22:19Z" name="Suite" finished-at="2019-02-11T08:22:19Z" duration-ms="566">
     <groups>
     </groups>
-    <test started-at="2019-02-11T07:57:42Z" name="Default test" finished-at="2019-02-11T07:57:43Z" duration-ms="580">
+    <test started-at="2019-02-11T08:22:19Z" name="Test" finished-at="2019-02-11T08:22:19Z" duration-ms="566">
       <class name="com.extent.reports.DemoExtentReport">
-        <test-method signature="Test()[pri:0, instance:com.extent.reports.DemoExtentReport@4a668b6e]" started-at="2019-02-11T07:57:42Z" name="Test" finished-at="2019-02-11T07:57:43Z" duration-ms="190" status="PASS">
+        <test-method signature="Test()[pri:0, instance:com.extent.reports.DemoExtentReport@130161f7]" started-at="2019-02-11T13:52:19Z" name="Test" finished-at="2019-02-11T13:52:19Z" duration-ms="210" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test -->
-        <test-method is-config="true" signature="AfterMeth(org.testng.ITestResult)[pri:0, instance:com.extent.reports.DemoExtentReport@4a668b6e]" started-at="2019-02-11T07:57:43Z" name="AfterMeth" finished-at="2019-02-11T07:57:43Z" duration-ms="361" status="PASS">
+        <test-method is-config="true" signature="AfterMeth(org.testng.ITestResult)[pri:0, instance:com.extent.reports.DemoExtentReport@130161f7]" started-at="2019-02-11T13:52:19Z" name="AfterMeth" finished-at="2019-02-11T13:52:19Z" duration-ms="341" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Test status=SUCCESS method=DemoExtentReport.Test()[pri:0, instance:com.extent.reports.DemoExtentReport@4a668b6e] output={null}]]]>
+                <![CDATA[[TestResult name=Test status=SUCCESS method=DemoExtentReport.Test()[pri:0, instance:com.extent.reports.DemoExtentReport@130161f7] output={null}]]]>
               </value>
             </param>
           </params>
@@ -23,6 +23,6 @@
           </reporter-output>
         </test-method> <!-- AfterMeth -->
       </class> <!-- com.extent.reports.DemoExtentReport -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
