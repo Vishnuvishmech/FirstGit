@@ -40,5 +40,8 @@
 	<classpathentry kind="lib" path="jars/mongodb-driver-3.3.0.jar"/>
 	<classpathentry kind="lib" path="jars/mongodb-driver-core-3.3.0.jar"/>
 	<classpathentry kind="lib" path="jars/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="testng_jars/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="testng_jars/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="testng_jars/testng-6.9.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
